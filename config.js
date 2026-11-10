@@ -6,5 +6,5 @@ window.INVITE_CONFIG = {
   after: 'Поедем в Поворот',
   // Необязательно: HTTPS URL вашего защищённого серверного обработчика.
   // Например: 'https://example.com/api/notify'
-  notificationEndpoint: ''
+  notificationEndpoint: 'https://snowy-rain-01ce.skinmareplaya.workers.dev'
 };
